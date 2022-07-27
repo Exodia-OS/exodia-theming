@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Simply Circles Green Dark
+Comment=GTK Theme to use with Simply Circles Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Simply Circles Green Dark
+GtkTheme=Simply_Circles_Green_Dark
+MetacityTheme=Simply_Circles_Green
+IconTheme=Simply-Green-Circles
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close
