@@ -4,7 +4,7 @@
 
 pkgname=exodia-themes
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Themes For Exodia OS"
 arch=('any')
 url="https://github.com/Exodia-OS/exodia-themes"
