@@ -1,1 +1,1 @@
-# exodia-theme
+Exodia OS Themes and Cursors.
