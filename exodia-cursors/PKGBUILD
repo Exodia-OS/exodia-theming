@@ -4,7 +4,7 @@
 
 pkgname=exodia-cursors
 pkgver=1.0
-pkgrel=6
+pkgrel=7
 pkgdesc="Cursors For Exodia OS"
 arch=('any')
 url="https://github.com/Exodia-OS/exodia-cursors"
