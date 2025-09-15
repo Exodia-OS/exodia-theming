@@ -3,7 +3,7 @@
 #
 
 pkgname=exodia-cursors
-pkgver=1.0
+pkgver=1.2
 pkgrel=9
 pkgdesc="Cursors For Exodia OS"
 arch=('any')
